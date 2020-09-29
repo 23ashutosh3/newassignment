@@ -1,0 +1,11 @@
+.resourse {
+    height: 35rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.first {
+    height: 50%;
+    width: 25%;
+}

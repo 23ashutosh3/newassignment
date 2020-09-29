@@ -1,0 +1,15 @@
+.card1 {
+    background-color: #d0e2f5;
+    height: 20rem;
+    width: 50rem;
+    justify-content: space-around;
+    margin-left: 20%;
+}
+
+h4 {
+    color: #609fe0;
+}
+
+.button {
+    background-color: orange;
+}

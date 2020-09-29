@@ -1,0 +1,26 @@
+.resourse {
+    height: 30rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.first1 {
+    height: 50%;
+    width: 50%;
+}
+
+.first2 {
+    height: 50%;
+    width: 50%;
+}
+
+.first3 {
+    height: 50%;
+    width: 50%;
+}
+
+.first4 {
+    height: 50%;
+    width: 50%;
+}
